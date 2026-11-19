@@ -1,0 +1,4 @@
+openai-whisper
+moviepy>=2.0
+torch
+pronouncing
